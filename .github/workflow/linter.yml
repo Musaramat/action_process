@@ -1,5 +1,5 @@
 name: Bump version and tag
-on:
+on:push
   push:
     branches:
       - main
